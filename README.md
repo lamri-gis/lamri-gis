@@ -54,6 +54,11 @@ Four years before a formal land conflict erupted between an HGU boundary and a K
 **Why I Built My Own GIS Field Application**
 A field practitioner's account of why Google Maps and Avenza Maps fall short in remote survey environments, and what it took to build something that actually works in the field conditions of interior Kalimantan.
 [Read on Medium](https://medium.com/@lamri/from-agribusiness-graduate-to-gis-webgis-developer-building-geospatial-solutions-without-a-gis-faf54f309903)
+
+**How I Became a GIS Practitioner Without Ever Taking a GIS Class**
+A personal account of building geospatial competency from scratch, without formal education in geography or geomatics, and what that unconventional path taught about the difference between knowing tools and understanding spatial problems.
+[Read on Medium](https://medium.com/@lamri/how-i-became-a-gis-practitioner-without-ever-taking-a-gis-class-48e14837dd78)
+
 ---
 
 ### Core Competencies
