@@ -49,12 +49,11 @@ Field notes and technical perspectives from years of geospatial work in East Kal
 
 **The Map Knew. I Knew. Nobody Asked.**
 Four years before a formal land conflict erupted between an HGU boundary and a KBK forestry zone in East Kalimantan, the overlap was already visible in the data. This is an account of what happens when spatial information exists, is understood, but has nowhere to go.
-[Read on Medium](https://medium.com/@lamri)
+[Read on Medium](https://medium.com/@lamri/the-map-knew-i-knew-nobody-asked-3ab83b4ec259)
 
 **Why I Built My Own GIS Field Application**
 A field practitioner's account of why Google Maps and Avenza Maps fall short in remote survey environments, and what it took to build something that actually works in the field conditions of interior Kalimantan.
-[Read on Medium](https://medium.com/@lamri)
-
+[Read on Medium](https://medium.com/@lamri/from-agribusiness-graduate-to-gis-webgis-developer-building-geospatial-solutions-without-a-gis-faf54f309903)
 ---
 
 ### Core Competencies
