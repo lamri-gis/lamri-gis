@@ -6,9 +6,9 @@
 
 *Turning raw geospatial data into interactive, production-ready systems*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-lamri.vercel.app-111111?style=for-the-badge)](https://lamri.vercel.app/portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lamri-s-p-b3a570136)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lamri)
+[![Portfolio](https://img.shields.io/badge/Portfolio-lamri.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lamri.vercel.app/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lamri_S.P-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lamri-s-p-b3a570136)
+[![Medium](https://img.shields.io/badge/@lamri-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lamri)
 
 </div>
 
