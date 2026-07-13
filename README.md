@@ -5,10 +5,8 @@
 ### GIS Analyst & WebGIS Developer
 
 *Turning raw geospatial data into interactive, production-ready systems*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lamri-s-p-b3a570136)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lamri)
-</div>
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)
 
 ---
 
